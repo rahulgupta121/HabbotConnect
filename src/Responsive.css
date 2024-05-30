@@ -1,0 +1,24 @@
+@media (max-width: 992px){
+    .search-btn-dv{
+        text-align: center;
+    }
+}
+@media (max-width: 500px){
+    .ftr-brand-dv-media{
+        justify-content: center !important;
+    }
+    .city-btn-dv {
+        text-align: center !important;
+    }
+    .ready-lrn-btn {
+        text-align: center !important;
+    }
+}
+@media (max-width: 500px),(max-width:630px){
+    .city-btn-dv {
+        text-align: center !important;
+    }
+    .ftr-brand-dv-media{
+        justify-content: center !important;
+    }
+}
