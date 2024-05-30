@@ -16,7 +16,7 @@ Make sure you have the following software installed on your machine:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/rahulgupta121/HabbotConnect.git
 cd your-repo-name
 
 React Install Dependencies
